@@ -17,7 +17,7 @@ field_moves = [
     ["cut", "surf", "fly", "strength", "flash"],
     
     # Gen 2
-    ["cut", "fly", "surf", "strength", "flash", "whirlpool", "waterfall"],
+    ["cut", "fly", "surf", "strength", "flash", "whirlpool", "waterfall", "rock smash"],
 
     # Gen 3
     ["cut", "fly", "surf", "strength", "flash", "rock smash", "waterfall", "dive"],
